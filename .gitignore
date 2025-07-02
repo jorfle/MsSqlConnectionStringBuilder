@@ -1,0 +1,12 @@
+# Ignore IDE specific files
+**/obj/
+**/bin/
+**/logs/
+logs
+*.log
+**/appsettings.*.json
+.idea
+**/.idea/
+**/http*private.env.json
+**/*.sln.DotSettings.user
+**/Properties/launchSettings.json

@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E77DE3B3-9B4E-4E64-89DD-01C348312F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsSqlConnectionStringBuilder", "src\MsSqlConnectionStringBuilder\MsSqlConnectionStringBuilder.csproj", "{71781094-3988-4125-98D3-279733794236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71781094-3988-4125-98D3-279733794236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71781094-3988-4125-98D3-279733794236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71781094-3988-4125-98D3-279733794236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71781094-3988-4125-98D3-279733794236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{71781094-3988-4125-98D3-279733794236} = {E77DE3B3-9B4E-4E64-89DD-01C348312F24}
+	EndGlobalSection
+EndGlobal

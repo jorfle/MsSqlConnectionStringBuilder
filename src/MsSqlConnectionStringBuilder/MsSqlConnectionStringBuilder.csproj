@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Version>1.0.5</Version>
+        <PackageId>MSSqlConnectionStringBuilder</PackageId>
+        <Authors>Joris Fleurackers</Authors>
+        <Description>Creates a DRY MSSQL Server connection string.</Description>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/jorfle/MsSqlConnectionStringBuilder.git</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/jorfle/MsSqlConnectionStringBuilder.git</PackageProjectUrl>
+        <Copyright>Copyright © Joris Fleurackers 2025</Copyright>
+    </PropertyGroup>
+    
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.2" />
+    </ItemGroup>
+
+</Project>
