@@ -1,5 +1,6 @@
 ﻿using System.Data;
 using Microsoft.Data.SqlClient;
+using MsSqlConnectionStringBuilder.Interfaces;
 
 namespace MsSqlConnectionStringBuilder;
 

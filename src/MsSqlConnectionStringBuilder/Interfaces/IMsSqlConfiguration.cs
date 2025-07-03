@@ -1,4 +1,4 @@
-﻿namespace MsSqlConnectionStringBuilder;
+﻿namespace MsSqlConnectionStringBuilder.Interfaces;
 
 /// <summary>
 /// Interface for reading SqlSettings
